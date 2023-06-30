@@ -38,7 +38,7 @@ struct ProfileView: View {
                                 }
                                 
                                 if viewModel.fullNameValidation.failure {
-                                    Text("Nome deve ter mais de 3 caracteres")
+                                    Text("Nome deve ter mais de 4 caracteres")
                                         .foregroundColor(.red)
                                 }
                                 
