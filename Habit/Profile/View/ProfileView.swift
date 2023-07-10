@@ -28,7 +28,7 @@ struct ProfileView: View {
                         
                         Form {
                             
-                            Section(header: Text("Dados cadastrais")) {
+                            Section(header: Text("Dados Cadastrais")) {
                                 HStack {
                                     Text("Nome")
                                     Spacer()
