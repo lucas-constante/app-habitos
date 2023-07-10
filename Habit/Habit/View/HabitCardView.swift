@@ -103,7 +103,7 @@ struct HabitCardView: View {
             
         }.background(
             RoundedRectangle(cornerRadius: 4.0)
-                .stroke(Color.blue, lineWidth: 1.4)
+                .stroke(Color.green, lineWidth: 1.4)
                 .shadow(color: .gray, radius: 2, x: 2.0, y: 2.0)
         )
         .padding(.horizontal, 4)
