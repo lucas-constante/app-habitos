@@ -29,7 +29,7 @@ struct SignInView: View {
                             Spacer(minLength: 36)
                             
                             VStack(alignment: .center, spacing: 8) {
-                                Image("logohabit")
+                                Image("logohabitsemfundo")
                                     .resizable()
                                     .scaledToFit()
                                     .padding(.horizontal, 48)
